@@ -1,0 +1,20 @@
+.btn {
+  width: 115px;
+  border: none;
+  outline: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.following {
+  color: #1f662c;
+  background-color: #99f5a8;
+  font-weight: bold;
+}
+
+.not__following {
+  font-weight: bold;
+  color: blue;
+  background-color: rgb(150, 150, 247);
+}
